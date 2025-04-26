@@ -1,0 +1,24 @@
+
+Contraseña: Karol2
+Caracter especial: Debe tener al menos un caracter especial.
+Numero: Tiene al menos un numero !.
+Longitud: Debe tener al menos 8 caracteres.
+Minusculas: Tiene al menos 3 letras minusculas !.
+Mayusculas: Debe contener al menos 2 letras mayusculas.
+***************************
+
+Contraseña: KaroL12?//
+Caracter especial: Tiene al menos un caracter especial !.
+Longitud: Tiene los caracteres suficientes !.
+Numero: Tiene al menos un numero !.
+Mayusculas: Tiene al menos 2 letras mayusculas !.
+Minusculas: Tiene al menos 3 letras minusculas !.
+***************************
+
+Contraseña: KAROL22222????
+Longitud: Tiene los caracteres suficientes !.
+Mayusculas: Tiene al menos 2 letras mayusculas !.
+Caracter especial: Tiene al menos un caracter especial !.
+Numero: Tiene al menos un numero !.
+Minusculas: Debe tener al menos 3 letras minusculas.
+***************************
